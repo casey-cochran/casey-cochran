@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Casey Cochran</h1>
-<h5> ⚡ Fun fact: Invisible characters exists </h5> 
+<h5 align='center'> ⚡ Fun fact: Invisible characters exists </h5> 
 <h3 align="center">Coding to the moon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=casey-cochran&label=Profile%20views&color=0e75b6&style=flat" alt="casey-cochran" /> </p>
