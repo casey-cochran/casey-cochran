@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **casey-cochran/casey-cochran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/casey-cochran-488420219/)
-[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/casey-cochran-2) -->
-
 
 
 
 
 <h1 align="center">Hi 👋, I'm Casey Cochran</h1>
+<h5> ⚡ Fun fact: Invisible characters exists </h5> 
 <h3 align="center">Coding to the moon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=casey-cochran&label=Profile%20views&color=0e75b6&style=flat" alt="casey-cochran" /> </p>
