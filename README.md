@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=casey-cochran&label=Profile%20views&color=0e75b6&style=flat" alt="casey-cochran" /> </p>
 
-- 🔭 I’m currently working on [Memories-gram](https://memories-gram.herokuapp.com/)
+- 🔭 I’m currently working on Chat-App
 
 - 🌱 I’m currently learning **React, Redux, Javascript, Express, PostgreSQL**
 
